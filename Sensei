@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <p>Hello from Sensei</p>
     <p>Here is what Js can do.</p>
     <P>Click on each button to change the photo</P>
     <button onclick="document.getElementById('aks').src='Eat in Party Size.jpg'">photo one</button>
@@ -13,3 +14,4 @@
     <button onclick="document.getElementById('aks').src='Switch User.jpg'">photo two</button>
 </body>
 </html>
+
