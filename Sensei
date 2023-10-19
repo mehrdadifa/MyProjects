@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Here is what Js can do.</p>
+    <P>Click on each button to change the photo</P>
+    <button onclick="document.getElementById('aks').src='Eat in Party Size.jpg'">photo one</button>
+    <img id='aks' src="Eat in Party Size.jpg">
+    <button onclick="document.getElementById('aks').src='Switch User.jpg'">photo two</button>
+</body>
+</html>
