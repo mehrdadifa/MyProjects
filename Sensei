@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Hello from Sensei 2</p>
+    <p>Hello from Sensei 3</p>
     <p>Here is what Js can do.</p>
     <P>Click on each button to change the photo</P>
     <button onclick="document.getElementById('aks').src='Eat in Party Size.jpg'">photo one</button>
